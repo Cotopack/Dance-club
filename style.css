@@ -9,6 +9,11 @@ header img{
  
    
 }
+h1{
+    text-align:center;
+    width:60%;
+        margin-left:20%
+}
 header{
      background-color: #01FE01;
    padding: 2%;
