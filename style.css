@@ -6,13 +6,16 @@ header img{
    height: 65px;
    width: 70px;
   
- 
+ .hp{
+     width:50%;
+     margin-left:25%;
+    }
    
 }
 h1{
     text-align:center;
     width:60%;
-        margin-left:20%
+        margin-left:20%;
 }
 header{
      background-color: #01FE01;
